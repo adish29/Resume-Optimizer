@@ -1,3 +1,5 @@
 node_modules
 .env
 resume_samples
+job_descriptions
+_pycache_
