@@ -25,7 +25,6 @@ def extract_keywords(text):
 
 def use_jd(jd_path):
     with open(jd_path, 'r') as file:
-        # Read the content of the file
         jd = file.read()
     return jd
 

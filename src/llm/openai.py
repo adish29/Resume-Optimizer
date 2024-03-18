@@ -2,7 +2,6 @@ from dotenv import load_dotenv
 import openai
 
 class myOpenAI:
-    # set defaults
     chat_model = "gpt-4-turbo-preview"
     embeddings_model = "text-embedding-3-large"
 
